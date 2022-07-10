@@ -1,0 +1,19 @@
+.bg-secondary {
+  background-color: #dfdfdf !important;
+}
+
+.table thead,
+tr {
+  border: 0px !important;
+}
+
+img {
+  text-align: center;
+  margin: auto;
+}
+
+@media screen and (max-width: 375px) {
+  tr {
+    width: 100%;
+  }
+}
